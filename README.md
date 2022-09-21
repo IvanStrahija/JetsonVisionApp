@@ -4,6 +4,8 @@ Tema: Razvoj integriranog sustava računala i kamere za brzo procesiranje slika 
 
 Repozitorij sadrži kompletan kod, 3D modele te .pdf verziju Završnog rada.
 
+
+
 Ivan Strahija
 
 Zagreb, 2022.
