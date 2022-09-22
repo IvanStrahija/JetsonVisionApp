@@ -2,7 +2,7 @@
 
 Tema: Razvoj integriranog sustava računala i kamere za brzo procesiranje slika pomoću grafičkog procesora
 
-Repozitorij sadrži kompletan kod, 3D modele te .pdf verziju Završnog rada.
+Repozitorij sadrži 3D modele te kompletan kod vizijske aplikacije.
 
 
 
